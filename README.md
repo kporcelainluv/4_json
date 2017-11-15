@@ -8,8 +8,7 @@ The program inputs path to file with arbitrary data in JSON format and outputs i
 
 Example of script launch on Linux, Python 3.5:
 Input
-  ```#!bash
-
+  ```
 $ python pprint_json.py [path_to_your_file]
 ```
 Output
