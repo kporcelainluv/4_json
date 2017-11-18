@@ -2,9 +2,7 @@
 
 The program inputs path to file with arbitrary data in JSON format and outputs its contents in the console in an easy-to-read form: adds line breaks, left indents and spaces
 
-# Quickstart
-
-[TODO]
+# How to launch
 
 Example of script launch on Linux, Python 3.5:
 Input
